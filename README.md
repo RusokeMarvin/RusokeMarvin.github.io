@@ -1,5 +1,6 @@
 #  E-BOOKING project-website-template
 Demo: https://yenchiah.github.io/project-website-template/
+This E-BOOKING website describes how differrent individuals can confidently book different artists for different event such as birthday parties,introduction ceremonies,graduation ceremonies and many others. 
 
 The current version is v3.36, and the last known stable version is [v3.29](https://github.com/yenchiah/project-website-template/tree/8beb079a57e9a7c210d1f612d658955642d8da84).
 
